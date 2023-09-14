@@ -23,6 +23,18 @@ Among the three positions of GIS as science, my personal experience thus far usi
 I think the universally applicable nature of GIS in the GIS Discourse is what attracted me at first to the technology. People from all disciplines see an increasing need to understand the factor of “place” (why is it happening here?) in all issues. The applicability of GIS across disciplines and its wide use is also what is stressed during my GIS education, especially when I realized taking GIS courses allows me to apply to more jobs that are not limited to geography. When learning about new tools in GIS, I started to reflect on in which scenario could this tool be applied to. I have friends that are not geography majors but are willing to take GIS courses. One of my friends majoring in economics asked me about self-learning GIS because during interviews he was asked whether he mastered GIS or not. GIS skill is considered a bonus in the job market. 
 
 
-Here is an image: ![github logo](/assets/images/Github-Mark.png)
+Here is an image: ![github logo](/assets/images/GitHub-Mark.png)
 
 link to [another post]
+
+
+| table column 1 | table column 2 |
+| :----------: | --------|
+| centered | not centered |
+| more content to show centering | not so much |
+
+
+|     | Reject | Accept    |
+| :----------: | :----------: | :-----: |
+| Not True | no error | type I |
+| True | type II | no error 
