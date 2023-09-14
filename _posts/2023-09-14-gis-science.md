@@ -28,7 +28,7 @@ I think the universally applicable nature of GIS in the GIS Discourse is what at
 Here is an image: 
 ![github logo](/assets/images/GitHub-Mark.png)
 
-link to [another post]
+link to [another post](/blog/post-quote/)
 
 
 | table column 1 | table column 2 |
