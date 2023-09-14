@@ -7,7 +7,7 @@ tags:
   - GIS
   - Science
 ---
-
+In the Fall 2023
 Here are the *prompts* that I used to reflect on the topic of **"Is GIS a science?"**
 - What is science and how does a lack of reproducibility impact scientific knowledge production? Do you have any prior experience or knowledge of irreproducibility or questionable research practices in science?
 - Which category of “GIS as Science” most applies to your personal experience thus far using and studying GIS? Do those forms of GIS count as “science”?
