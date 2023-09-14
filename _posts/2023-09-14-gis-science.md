@@ -7,7 +7,8 @@ tags:
   - GIS
   - Science
 ---
-In the Fall 2023
+In the Fall semester of 2023, I have taken GEOG 361 Open Source GIS with Professor Joe Holler. We had our course started by discussing a debating topic "Is GIS Science?"
+
 Here are the *prompts* that I used to reflect on the topic of **"Is GIS a science?"**
 - What is science and how does a lack of reproducibility impact scientific knowledge production? Do you have any prior experience or knowledge of irreproducibility or questionable research practices in science?
 - Which category of “GIS as Science” most applies to your personal experience thus far using and studying GIS? Do those forms of GIS count as “science”?
@@ -21,3 +22,7 @@ Among the three positions of GIS as science, my personal experience thus far usi
 
 I think the universally applicable nature of GIS in the GIS Discourse is what attracted me at first to the technology. People from all disciplines see an increasing need to understand the factor of “place” (why is it happening here?) in all issues. The applicability of GIS across disciplines and its wide use is also what is stressed during my GIS education, especially when I realized taking GIS courses allows me to apply to more jobs that are not limited to geography. When learning about new tools in GIS, I started to reflect on in which scenario could this tool be applied to. I have friends that are not geography majors but are willing to take GIS courses. One of my friends majoring in economics asked me about self-learning GIS because during interviews he was asked whether he mastered GIS or not. GIS skill is considered a bonus in the job market. 
 
+
+Here is an image: ![github logo](/assets/images/Github-Mark.png)
+
+link to [another post]
