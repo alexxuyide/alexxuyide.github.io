@@ -1,5 +1,5 @@
 ---
-title: "Is GIS a science?"
+title: "Reproducible and Open GIScience"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
