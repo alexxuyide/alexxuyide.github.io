@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Yide (Alex) Xu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Alex_bio_photo.jpg"
   bio    : "Middlebury College 24'"
   links:
     - label: "Website"
