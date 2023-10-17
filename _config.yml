@@ -16,9 +16,8 @@
 title: Yide (Alex) Xu Github Website
 email: yidex@middlebury.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a portfolio website of most of my GIS works made in coursework and internships. 
-twitter_username: username
-github_username: username
+  This is a portfolio website for my GIS projects in coursework and internships. 
+github_username: alexxuyide
 minimal_mistakes_skin: air
 search: true
 
