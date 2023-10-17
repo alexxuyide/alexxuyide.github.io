@@ -2,10 +2,12 @@
 title: "Is GIS a science?"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - General Blog
 tags:
   - GIS
   - Science
+  - Open Source GIScience
+  - Discussion
 ---
 In the Fall semester of 2023, I have taken GEOG 361 Open Source GIS with Professor Joe Holler. We had our course started by discussing a debating topic "Is GIS Science?"
 

@@ -2,10 +2,12 @@
 title: "Chakraborty 2021 Reproduction and Modification"
 date: 2023-10-04
 categories:
-  - blog
+  - Reproduction Blog
 tags:
   - Chakraborty 2021
   - Reproducibility and Replicability
+  - COVID-19
+  - Open Source GIScience
 ---
 
 Participating in the Chakraborty 2021 study reproduction process was the first time I delved into a research study, comprehended all its components, and executed it independently. I acquired insights into constructing the workflow of scientific research and learned how to design a reproduction study that mirrors this workflow. Throughout this process, I realized that certain steps in the original study couldn't be replicated due to various factors, such as the unavailability of specific tools, challenges in replicating analyses within the same computational environment, and the absence of information regarding arbitrary decisions made during the study. Moreover, there were instances where we had to infer the author's actions and parameter choices based on intermittent results during the study. Some aspects of the reproduction involved experimenting with different methods or tools, resulting in variations from the original study. For instance, we initially utilized SpatialEpi for Kulldorff spatial scan, which, due to its open-source nature, produced different clusters compared to the Kulldorff spatial scan in SaTScan, the tool used by the author. I believe these differences do not necessarily indicate errors but rather serve as reminders for us to delve deeper into understanding the distinct underlying mechanisms of the same tool in different software packages and determine which one is better suited for the study's objectives. 

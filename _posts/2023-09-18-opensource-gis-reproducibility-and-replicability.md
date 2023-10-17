@@ -2,10 +2,11 @@
 title: "Reproducible and Open GIScience"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - General Blog
 tags:
-  - Open Source GIS
+  - Open Source GIScience
   - Reproducibility and Replicability
+  - Discussion
 ---
 - To what extent does open-source GIS help solve the problems of the reproducibility crisis for geography? How?
 - Are there problems with reproducibility and replicability in geography that open-source GIS cannot help solve?
