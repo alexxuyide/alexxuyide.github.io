@@ -57,14 +57,11 @@ plugins:
 author:
   name   : "Yide (Alex) Xu"
   avatar : "/assets/images/Alex_bio_photo.jpg"
-  bio    : "Middlebury College 24'"
+  bio    : "Middlebury College 24' \n Geography and Mathematics Double Major"
   links:
-    - label: "Website"
+    - label: "Remote Sensing Portfolio"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://sites.middlebury.edu/yidexu/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
