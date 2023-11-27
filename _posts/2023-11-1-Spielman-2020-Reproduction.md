@@ -15,7 +15,7 @@ We have successfully reproduced [Spielman’s study](https://doi.org/10.1007/s11
 
 The revised reproduction study also added a visualization of the national scale SoVI score distribution, the national scale difference between weighted SoVI and unweighted SoVI, and a table in the Principal Component Analysis section presenting how much weight is assigned to each variable of each principal component. 
 
-[Here is my html report of Spielman Reproduction and Modification.](https://alexxuyide.github.io/RPr-Spielman-2020/)
+[Here is my html report of Spielman Reproduction and Modification.](https://alexxuyide.github.io/RPl-Spielman-2020/)
 
 [Here is the link to the repository](https://github.com/alexxuyide/RPl-Spielman-2020)
 
