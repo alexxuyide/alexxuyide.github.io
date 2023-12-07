@@ -16,7 +16,7 @@ Kang et al.’s study focuses on mapping and analyzing the accessibility of COVI
 
 We used OSMNX packages to fix the road segments without speed limits. Instead of assigning 35 mph to all the segments that do not have a speed limit, the OSMNX package fills the void by assigning the average speed limit of the same road-type segments with speed limit data. This method ensures that the analysis is based on data that is more realistic and could better simulate the result. When calculating the accessibility score, the original study employs an “all-or-nothing” approach which assigns the rate of a given catchment area to the entire hexagon if more than 50 percent of the hexagon is covered by the catchment area. By using the area-weighted reaggregation method in accessibility score calculation, we could improve the precision by taking into account the hexagons that are covered less than 50 percent by the hospital catchment area. 
 
-[Here is my html report of Kang Reproduction and Modification.](https://alexxuyide.github.io/RPl-Spielman-2020/)
+[Here is my html report of Kang Reproduction and Modification.](https://alexxuyide.github.io/RPr-Kang-2020/)
 
 [Here is the link to the repository](https://github.com/alexxuyide/RPr-Kang-2020)
 
